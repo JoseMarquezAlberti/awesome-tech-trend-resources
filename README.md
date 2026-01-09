@@ -2,7 +2,25 @@
 
 > A curated list of tools, platforms, and resources for tracking tech trends, startup signals, and emerging technologies.
 
-**Last Updated:** January 9, 2026
+**Last Updated:** January 09, 2026
+
+---
+
+## 🔥 Trending This Week
+
+- AI
+- SaaS
+- DevTools
+
+*Updated daily from [ASOF](https://asof.app/live)*
+
+---
+
+## 🚀 Hot Products Right Now
+
+- Check [ASOF Live](https://asof.app/live) for real-time data
+
+*See more at [ASOF Live Dashboard](https://asof.app/live)*
 
 ---
 
